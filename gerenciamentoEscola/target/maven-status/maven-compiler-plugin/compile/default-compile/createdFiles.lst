@@ -1,0 +1,15 @@
+modules\JAXRSConfiguration.class
+modules\Disciplinas.class
+modules\Escola.class
+modules\Professores.class
+modules\NewCrossOriginResourceSharingFilter.class
+resources\EscolaResource.class
+resources\DisciplinasResources.class
+resources\HelloWorldResource.class
+resources\AlunosResources.class
+resources\NewCrossOriginResourceSharingFilter.class
+modules\Cursos.class
+resources\JavaEE8Resource.class
+resources\ProfessoresResources.class
+modules\Alunos.class
+resources\CursosResources.class
